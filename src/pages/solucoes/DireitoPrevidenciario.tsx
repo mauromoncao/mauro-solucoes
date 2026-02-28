@@ -169,7 +169,7 @@ export default function DireitoPrevidenciario() {
       <SEOHead
         title="Direito Previdenciário — Aposentadoria, BPC e Benefícios do INSS"
         description="Solicite, revise ou recorra de benefícios do INSS: aposentadoria, BPC/LOAS, auxílio-doença. Especialistas em Direito Previdenciário — Mauro Monção Advogados."
-        canonical="https://mauromoncao.adv.br/solucoes/direito-previdenciario"
+        canonical="https://solucoes.mauromoncao.adv.br/direito-previdenciario"
         keywords="advogado previdenciário, aposentadoria INSS, BPC LOAS, revisão benefício, Piauí Maranhão"
         jsonLd={[
           buildServiceLD({ name: "Direito Previdenciário — Aposentadoria, BPC e Benefícios do INSS", description: "Solicite, revise ou recorra de benefícios do INSS: aposentadoria, BPC/LOAS, auxílio-doença. Especialistas em Direito Previdenciário — Mauro Monção Advogados.", url: "https://mauromoncao.adv.br/solucoes/direito-previdenciario" }),

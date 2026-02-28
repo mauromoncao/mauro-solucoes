@@ -75,7 +75,7 @@ export default function RecuperacaoTributaria() {
       <SEOHead
         title="Recuperação Tributária — Créditos de PIS, COFINS, ICMS e Mais"
         description="Identifique e recupere tributos pagos indevidamente: PIS, COFINS, ICMS, IRPJ, CSLL. Análise gratuita da sua empresa com Mauro Monção Advogados."
-        canonical="https://mauromoncao.adv.br/solucoes/recuperacao-tributaria"
+        canonical="https://solucoes.mauromoncao.adv.br/recuperacao-tributaria"
         keywords="recuperação tributária, créditos PIS COFINS, restituição ICMS, tributos pagos a mais"
         jsonLd={[
           buildServiceLD({ name: "Recuperação Tributária — Créditos de PIS, COFINS, ICMS e Mais", description: "Identifique e recupere tributos pagos indevidamente: PIS, COFINS, ICMS, IRPJ, CSLL. Análise gratuita da sua empresa com Mauro Monção Advogados.", url: "https://mauromoncao.adv.br/solucoes/recuperacao-tributaria" }),

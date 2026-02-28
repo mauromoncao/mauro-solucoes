@@ -190,7 +190,7 @@ export default function PlanejamentoTributario() {
       <SEOHead
         title="Planejamento Tributário — Reduza a Carga Fiscal da sua Empresa"
         description="Reduza legalmente os impostos da sua empresa com planejamento tributário estratégico. Escolha do regime correto, benefícios fiscais e elisão fiscal."
-        canonical="https://mauromoncao.adv.br/solucoes/planejamento-tributario"
+        canonical="https://solucoes.mauromoncao.adv.br/planejamento-tributario"
         keywords="planejamento tributário, redução de impostos, regime tributário, elisão fiscal, simples nacional"
         jsonLd={[
           buildServiceLD({ name: "Planejamento Tributário — Reduza a Carga Fiscal da sua Empresa", description: "Reduza legalmente os impostos da sua empresa com planejamento tributário estratégico. Escolha do regime correto, benefícios fiscais e elisão fiscal.", url: "https://mauromoncao.adv.br/solucoes/planejamento-tributario" }),

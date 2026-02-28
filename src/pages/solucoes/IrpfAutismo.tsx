@@ -169,7 +169,7 @@ export default function IrpfAutismo() {
       <SEOHead
         title="IRPF com Filho Autista — Isenção e Restituição de Imposto de Renda"
         description="Famílias com filhos autistas têm direito à isenção do IRPF e restituição de até 5 anos. Entenda a tese jurídica e consulte grátis com Mauro Monção Advogados."
-        canonical="https://mauromoncao.adv.br/solucoes/irpf-autismo"
+        canonical="https://solucoes.mauromoncao.adv.br/irpf-autismo"
         keywords="IRPF autismo, isenção imposto de renda TEA, restituição IRPF filho autista, advogado tributário"
         jsonLd={[
           buildServiceLD({ name: "IRPF com Filho Autista — Isenção e Restituição de Imposto de Renda", description: "Famílias com filhos autistas têm direito à isenção do IRPF e restituição de até 5 anos. Entenda a tese jurídica e consulte grátis com Mauro Monção Advogados.", url: "https://mauromoncao.adv.br/solucoes/irpf-autismo" }),

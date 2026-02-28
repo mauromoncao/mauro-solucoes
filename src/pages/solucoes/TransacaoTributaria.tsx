@@ -75,7 +75,7 @@ export default function TransacaoTributaria() {
       <SEOHead
         title="Transação Tributária — Negocie sua Dívida com a Receita Federal"
         description="Regularize dívidas tributárias federais com a Transação Tributária (Receita Federal e PGFN). Condições especiais, descontos e parcelamento. Consulte já."
-        canonical="https://mauromoncao.adv.br/solucoes/transacao-tributaria"
+        canonical="https://solucoes.mauromoncao.adv.br/transacao-tributaria"
         keywords="transação tributária, negociação dívida fiscal, PGFN, parcelamento receita federal, regularização fiscal"
         jsonLd={[
           buildServiceLD({ name: "Transação Tributária — Negocie sua Dívida com a Receita Federal", description: "Regularize dívidas tributárias federais com a Transação Tributária (Receita Federal e PGFN). Condições especiais, descontos e parcelamento. Consulte já.", url: "https://mauromoncao.adv.br/solucoes/transacao-tributaria" }),

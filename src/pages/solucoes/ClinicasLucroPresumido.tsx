@@ -14,7 +14,7 @@ export default function ClinicasLucroPresumido(){const { settings } = useSetting
       <SEOHead
         title="Clínicas no Lucro Presumido — Tese Tributária para Redução de ISS e IR"
         description="Clínicas médicas e odontológicas no Lucro Presumido podem reduzir legalmente ISS, IRPJ e CSLL. Conheça a tese e veja quanto sua clínica pode economizar."
-        canonical="https://mauromoncao.adv.br/solucoes/clinicas-lucro-presumido"
+        canonical="https://solucoes.mauromoncao.adv.br/clinicas-lucro-presumido"
         keywords="clínica lucro presumido, tese tributária clínica, redução ISS médico, IRPJ clínica médica"
         jsonLd={[
           buildServiceLD({ name: "Clínicas no Lucro Presumido — Tese Tributária para Redução de ISS e IR", description: "Clínicas médicas e odontológicas no Lucro Presumido podem reduzir legalmente ISS, IRPJ e CSLL. Conheça a tese e veja quanto sua clínica pode economizar.", url: "https://mauromoncao.adv.br/solucoes/clinicas-lucro-presumido" }),

@@ -122,7 +122,7 @@ export default function RecuperacaoPrevidenciaria() {
       <SEOHead
         title="Recuperação Previdenciária — Restituição de Contribuições ao INSS"
         description="Sua empresa pode ter contribuições previdenciárias pagas a mais. Recupere créditos do INSS de forma legal e segura com Mauro Monção Advogados."
-        canonical="https://mauromoncao.adv.br/solucoes/recuperacao-previdenciaria"
+        canonical="https://solucoes.mauromoncao.adv.br/recuperacao-previdenciaria"
         keywords="recuperação previdenciária, créditos INSS, contribuição indevida, restituição INSS empresa"
         jsonLd={[
           buildServiceLD({ name: "Recuperação Previdenciária — Restituição de Contribuições ao INSS", description: "Sua empresa pode ter contribuições previdenciárias pagas a mais. Recupere créditos do INSS de forma legal e segura com Mauro Monção Advogados.", url: "https://mauromoncao.adv.br/solucoes/recuperacao-previdenciaria" }),

@@ -125,7 +125,7 @@ export default function Institucional() {
       <SEOHead
         title="Assessoria Jurídica Institucional — Prefeituras e Órgãos Públicos"
         description="Assessoria jurídica especializada para municípios, autarquias e entidades públicas. Direito Administrativo, Licitações, Contratos Públicos e Advocacia Municipal."
-        canonical="https://mauromoncao.adv.br/solucoes/institucional"
+        canonical="https://solucoes.mauromoncao.adv.br/institucional"
         keywords="assessoria jurídica municipal, advocacia pública, licitações, contratos administrativos, prefeitura"
         jsonLd={[
           buildServiceLD({ name: "Assessoria Jurídica Institucional — Prefeituras e Órgãos Públicos", description: "Assessoria jurídica especializada para municípios, autarquias e entidades públicas. Direito Administrativo, Licitações, Contratos Públicos e Advocacia Municipal.", url: "https://mauromoncao.adv.br/solucoes/institucional" }),

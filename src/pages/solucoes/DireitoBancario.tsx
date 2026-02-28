@@ -148,7 +148,7 @@ export default function DireitoBancario() {
       <SEOHead
         title="Direito Bancário — Revisão de Contratos e Defesa contra Bancos"
         description="Revise contratos bancários abusivos, juros excessivos, cobranças indevidas e negativação injusta. Mauro Monção Advogados especialistas em Direito Bancário."
-        canonical="https://mauromoncao.adv.br/solucoes/direito-bancario"
+        canonical="https://solucoes.mauromoncao.adv.br/direito-bancario"
         keywords="revisão contrato bancário, juros abusivos, negativação indevida, advogado bancário Piauí"
         jsonLd={[
           buildServiceLD({ name: "Direito Bancário — Revisão de Contratos e Defesa contra Bancos", description: "Revise contratos bancários abusivos, juros excessivos, cobranças indevidas e negativação injusta. Mauro Monção Advogados especialistas em Direito Bancário.", url: "https://mauromoncao.adv.br/solucoes/direito-bancario" }),

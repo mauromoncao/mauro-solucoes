@@ -183,7 +183,7 @@ export default function DefesaFiscal() {
       <SEOHead
         title="Defesa Fiscal — Autuações, Auto de Infração e Contencioso Tributário"
         description="Defenda sua empresa de autuações fiscais, autos de infração, execuções fiscais e cobranças indevidas. Contencioso tributário especializado — Mauro Monção."
-        canonical="https://mauromoncao.adv.br/solucoes/defesa-fiscal"
+        canonical="https://solucoes.mauromoncao.adv.br/defesa-fiscal"
         keywords="defesa fiscal, auto de infração, contencioso tributário, execução fiscal, advogado tributário"
         jsonLd={[
           buildServiceLD({ name: "Defesa Fiscal — Autuações, Auto de Infração e Contencioso Tributário", description: "Defenda sua empresa de autuações fiscais, autos de infração, execuções fiscais e cobranças indevidas. Contencioso tributário especializado — Mauro Monção.", url: "https://mauromoncao.adv.br/solucoes/defesa-fiscal" }),
