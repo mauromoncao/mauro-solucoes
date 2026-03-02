@@ -221,6 +221,21 @@ export default function Header() {
             Fale Conosco
           </a>
 
+          {/* ── ACESSO RESTRITO — Painel Admin ── */}
+          <a
+            href="https://solucoes-painel-admin-bb487qv3n-mauro-moncaos-projects.vercel.app/login"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-1.5 border border-white/20 text-white/60 px-3 py-1.5 rounded-lg text-xs font-semibold hover:border-white/40 hover:text-white/90 transition-all whitespace-nowrap tracking-wide"
+            title="Acesso exclusivo para administradores"
+          >
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+              <rect x="3" y="11" width="18" height="11" rx="2"/>
+              <path d="M7 11V7a5 5 0 0110 0v4"/>
+            </svg>
+            ACESSO RESTRITO
+          </a>
+
           {/* ── ÍCONES SOCIAIS DOURADOS ── */}
           <div className="flex items-center gap-2.5 border-l border-[#E8B84B]/20 pl-3">
             {socialLinks.map((s) => (
@@ -282,6 +297,18 @@ export default function Header() {
               className="mt-2 bg-red-700 text-white text-center px-4 py-3 rounded text-sm font-black"
             >
               ▶ TRIBUTOFLIX
+            </a>
+            <a
+              href="https://solucoes-painel-admin-bb487qv3n-mauro-moncaos-projects.vercel.app/login"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-2 border border-white/20 text-white/60 text-center px-4 py-3 rounded-lg text-sm font-semibold flex items-center justify-center gap-2"
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+                <rect x="3" y="11" width="18" height="11" rx="2"/>
+                <path d="M7 11V7a5 5 0 0110 0v4"/>
+              </svg>
+              ACESSO RESTRITO
             </a>
             <div className="flex items-center justify-center gap-5 mt-4">
               {socialLinks.map((s) => (
