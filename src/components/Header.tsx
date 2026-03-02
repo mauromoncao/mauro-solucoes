@@ -223,7 +223,7 @@ export default function Header() {
 
           {/* ── ACESSO RESTRITO — Painel Admin ── */}
           <a
-            href="https://solucoes-painel-admin-bb487qv3n-mauro-moncaos-projects.vercel.app/login"
+            href="https://solucoes-painel-admin.vercel.app/login"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-1.5 border border-white/20 text-white/60 px-3 py-1.5 rounded-lg text-xs font-semibold hover:border-white/40 hover:text-white/90 transition-all whitespace-nowrap tracking-wide"
@@ -299,7 +299,7 @@ export default function Header() {
               ▶ TRIBUTOFLIX
             </a>
             <a
-              href="https://solucoes-painel-admin-bb487qv3n-mauro-moncaos-projects.vercel.app/login"
+              href="https://solucoes-painel-admin.vercel.app/login"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-2 border border-white/20 text-white/60 text-center px-4 py-3 rounded-lg text-sm font-semibold flex items-center justify-center gap-2"
